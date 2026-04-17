@@ -82,8 +82,8 @@ REST APIs, JWT Auth, Git, System Design, MVC Architecture
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: (add your link)
-* 📧 Email: (add your email)
+* 💼 LinkedIn: www.linkedin.com/in/23-kartikey
+* 📧 Email: kaarrttiikkeey@gmail.com
 
 ---
 
