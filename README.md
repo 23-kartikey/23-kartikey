@@ -1,75 +1,86 @@
 # Kartikey Chauhan
 
-🚀 Backend Engineer focused on building scalable systems with Spring Boot & AI integrations
+🚀 Full-Stack Developer | React + Spring Boot | Building scalable web applications & AI-powered systems
 
-💡 Currently building real-world systems combining **Java + AI + System Design**
+💡 I design and build complete systems — from frontend interfaces to backend architecture and AI integrations.
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Building **AI-powered backend systems** (Gemini integrations, APIs)
-* 🧱 Strong focus on **Spring Boot, JPA, and scalable architectures**
-* 📈 Practicing **DSA + System Design** for high-level engineering roles
-* ⚡ I prefer building systems over just solving problems
+* 🔭 Building **full-stack applications** using React + Spring Boot
+* 🤖 Integrating **AI (Gemini API)** into real-world products
+* 🧱 Focused on **clean architecture & scalable backend systems**
+* 📈 Practicing **DSA + System Design** for top-tier engineering roles
 
 ---
 
-## 🚀 Projects That Matter
+## 🚀 Featured Projects
 
-### 🧠 Gemini Orbit (AI Backend)
+### 🧠 Gemini Orbit (AI Full-Stack System)
 
 * AI-powered knowledge graph generator using Gemini API
-* Built with Spring Boot + REST architecture
-* Focus: AI integration + backend design
+* React frontend + Spring Boot backend
+* Focus: AI integration + full-stack architecture
+
+### 🛒 Taco Cloud (Full-Stack App)
+
+* Cloud-based food ordering application
+* Built using Spring Boot + frontend UI
+* Focus: MVC architecture + database integration
 
 ### 🔐 Secure Notes API
 
 * JWT-based authentication system
 * Production-style backend with Spring Security
-* Focus: security + API design
-
-### 👤 User Management System
-
-* Complete authentication & authorization system
-* Clean layered architecture (Controller → Service → Repo)
+* Focus: security + REST API design
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:**
-Java, Spring Boot, Spring Security, JPA, Hibernate
+### ⚙️ Backend
 
-**Database:**
-MySQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-blue?style=for-the-badge)
 
-**Other:**
-REST APIs, JWT Auth, System Design, Git
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🔧 Tools & Concepts
+
+REST APIs, JWT Auth, Git, System Design, MVC Architecture
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=23-kartikey\&show_icons=true\&theme=tokyonight)
+![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=23-kartikey\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23-kartikey\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23-kartikey\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🎯 Current Focus
 
-* 🧠 Mastering System Design
-* ⚙️ Building production-level backend systems
-* 🤖 Integrating AI into real applications
+* ⚡ Building **production-level full-stack projects**
+* 🧠 Mastering **system design & scalability**
+* 🤖 Exploring **AI-powered web applications**
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/23-kartikey
-* Email: kaarrttiikkeey@gmail.com
+* 💼 LinkedIn: (add your link)
+* 📧 Email: (add your email)
 
 ---
 
-⚡ *I don’t just write code. I build systems that scale.*
+⚡ *I build systems, not just features.*
