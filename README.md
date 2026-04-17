@@ -1,90 +1,127 @@
-# Kartikey Chauhan
+<h1 align="center">Kartikey Chauhan</h1>
 
-🚀 Full-Stack Developer | React + Spring Boot | Building scalable web applications & AI-powered systems
+<p align="center">
+  <b>🚀 Full-Stack Developer | React × Spring Boot | AI Systems</b>
+</p>
 
-💡 I design and build complete systems — from frontend interfaces to backend architecture and AI integrations.
+<p align="center">
+  <a href="mailto:kaarrttiikkeey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/23-kartikey">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/23-kartikey">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Building **full-stack applications** using React + Spring Boot
-* 🤖 Integrating **AI (Gemini API)** into real-world products
-* 🧱 Focused on **clean architecture & scalable backend systems**
-* 📈 Practicing **DSA + System Design** for top-tier engineering roles
+💡 I build **production-ready full-stack systems** using
+⚛️ **React (TypeScript)** + ☕ **Spring Boot**
+
+* 🧱 Strong in **backend architecture & REST APIs**
+* 🔐 Experience with **JWT authentication & security**
+* 🤖 Building **AI-integrated applications (Gemini API)**
+* ⚡ Focused on **scalable, real-world systems**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Gemini Orbit (AI Full-Stack System)
+### 🧠 Gemini Orbit
 
-* AI-powered knowledge graph generator using Gemini API
-* React frontend + Spring Boot backend
-* Focus: AI integration + full-stack architecture
+**AI Knowledge Graph Generator**
 
-### 🛒 Taco Cloud (Full-Stack App)
+* ⚛️ React + Three.js frontend
+* ☕ Spring Boot backend + Gemini API
+* 📊 Visualizes complex topics as interactive graphs
+* 🚀 Full-stack deployment (Docker + Vercel)
 
-* Cloud-based food ordering application
-* Built using Spring Boot + frontend UI
-* Focus: MVC architecture + database integration
+🔗 https://github.com/23-kartikey/gemini-orbit
+
+---
+
+### 🌮 Taco Cloud *(In Progress)*
+
+**Spring MVC Full-Stack App**
+
+* 🧩 MVC architecture (Controller → Service → Repo)
+* 🛒 Food ordering system with backend-driven UI
+* 🔐 Authentication & order processing
+
+🔗 https://github.com/23-kartikey/taco-cloud
+
+---
 
 ### 🔐 Secure Notes API
 
-* JWT-based authentication system
-* Production-style backend with Spring Security
-* Focus: security + REST API design
+**JWT Authentication System**
+
+* 🔑 Stateless authentication with JWT
+* 🔒 BCrypt password hashing
+* ⚙️ Role-based access control
+
+🔗 https://github.com/23-kartikey/secure-notes-api
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-blue?style=for-the-badge)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Security-JWT-green?style=for-the-badge)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
-### 🔧 Tools & Concepts
-REST APIs, JWT Auth, Git, System Design, MVC Architecture
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge\&logo=apachecassandra\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=23-kartikey\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23-kartikey\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23-kartikey&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-kartikey&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-* ⚡ Building **production-level full-stack projects**
-* 🧠 Mastering **system design & scalability**
-* 🤖 Exploring **AI-powered web applications**
+* ⚡ Building **production-grade full-stack apps**
+* 🧠 Learning **system design & scalability**
+* 🤖 Exploring **AI-powered web systems**
 
 ---
 
-## 🤝 Connect With Me
+## 📬 Contact
 
-* 💼 LinkedIn: www.linkedin.com/in/23-kartikey
-* 📧 Email: kaarrttiikkeey@gmail.com
+📧 [kaarrttiikkeey@gmail.com](mailto:kaarrttiikkeey@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/23-kartikey
 
 ---
 
-⚡ *I build systems, not just features.*
+<p align="center">
+  <b>“Program testing can be used to show the presence of bugs, but never to show their absence.”</b><br>
+  <i>— Edsger W. Dijkstra</i>
+</p>
