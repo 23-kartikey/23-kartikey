@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-indol-three-64.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:kaarrttiikkeey@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
@@ -12,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/23-kartikey">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Link-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -41,7 +47,7 @@
 * 📊 Visualizes complex topics as interactive graphs
 * 🚀 Full-stack deployment (Docker + Vercel)
 
-🔗 https://github.com/23-kartikey/gemini-orbit
+🔗 https://github.com/23-kartikey/gemini-orbit-ai-backend
 
 ---
 
@@ -111,6 +117,16 @@
 * ⚡ Building **production-grade full-stack apps**
 * 🧠 Learning **system design & scalability**
 * 🤖 Exploring **AI-powered web systems**
+
+---
+
+## 🌐 Portfolio
+
+<p>
+  <a href="https://portfolio-indol-three-64.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
