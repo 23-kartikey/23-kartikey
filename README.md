@@ -1,4 +1,4 @@
-<h1 align="center">Kartikey Chauhan</h1>
+<h1 align="center">Kartikey Chauhan✨</h1>
 
 <p align="center">
   <b>🚀 Full-Stack Developer | React × Spring Boot | AI Systems</b>
