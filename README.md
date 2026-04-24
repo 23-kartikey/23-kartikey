@@ -1,7 +1,7 @@
-<h1 align="center">Kartikey Chauhan✨</h1>
+<h1 align="center">Kartikey Chauhan</h1>
 
 <p align="center">
-  <b>🚀 Full-Stack Developer | React × Spring Boot | AI Systems</b>
+  <b>Backend-Focused Full-Stack Developer | Spring Boot | Scalable Systems | AI Integrations</b>
 </p>
 
 <p align="center">
@@ -26,80 +26,81 @@
 
 ## 🧠 About Me
 
-💡 I build **production-ready full-stack systems** using
-⚛️ **React (TypeScript)** + ☕ **Spring Boot**
+I design and build **backend-heavy, production-oriented systems** using:
 
-* 🧱 Strong in **backend architecture & REST APIs**
-* 🔐 Experience with **JWT authentication & security**
-* 🤖 Building **AI-integrated applications (Gemini API)**
-* ⚡ Focused on **scalable, real-world systems**
+- ☕ **Spring Boot (REST APIs, Security, JPA)**
+- ⚛️ **React + TypeScript (clean, functional UI)**
+- 🗄️ **Relational & NoSQL databases**
+
+### Core Strengths
+
+- 🧱 Backend architecture (layered design, clean separation of concerns)
+- 🔐 Authentication & security (JWT, role-based access control)
+- ⚙️ Building scalable APIs and system workflows
+- 🤖 Integrating AI APIs into real-world applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Gemini Orbit
+### 🧠 Gemini Orbit  
+**AI Knowledge Graph System**
 
-**AI Knowledge Graph Generator**
-
-* ⚛️ React + Three.js frontend
-* ☕ Spring Boot backend + Gemini API
-* 📊 Visualizes complex topics as interactive graphs
-* 🚀 Full-stack deployment (Docker + Vercel)
+- Designed a system to transform unstructured input into **interactive knowledge graphs**
+- Built with:
+  - React + Three.js (graph visualization)
+  - Spring Boot backend (API orchestration)
+  - Gemini API (AI processing layer)
+- Focus:
+  - Handling async AI responses
+  - Structuring graph data for visualization
+  - Full-stack deployment (Docker + Vercel)
 
 🔗 https://github.com/23-kartikey/gemini-orbit-ai-backend
 
 ---
 
-### 🌮 Taco Cloud *(In Progress)*
+### 🔐 Secure Notes API  
+**Authentication & Authorization System**
 
-**Spring MVC Full-Stack App**
+- Built a **stateless authentication system** using JWT
+- Implemented:
+  - BCrypt password hashing
+  - Role-based authorization
+  - Secure API access control
+- Designed for **real-world security practices**
 
-* 🧩 MVC architecture (Controller → Service → Repo)
-* 🛒 Food ordering system with backend-driven UI
-* 🔐 Authentication & order processing
-
-🔗 https://github.com/23-kartikey/taco-cloud
+🔗 https://github.com/23-kartikey/secure-notes-api
 
 ---
 
-### 🔐 Secure Notes API
+### 🌮 Taco Cloud *(In Progress)*  
+**Spring MVC Application**
 
-**JWT Authentication System**
+- Implementing **end-to-end MVC architecture**
+- Features:
+  - Order management system
+  - Backend-driven rendering
+  - Authentication + session handling
+- Focus: understanding **Spring internals & request lifecycle**
 
-* 🔑 Stateless authentication with JWT
-* 🔒 BCrypt password hashing
-* ⚙️ Role-based access control
-
-🔗 https://github.com/23-kartikey/secure-notes-api
+🔗 https://github.com/23-kartikey/taco-cloud
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+Java • TypeScript • JavaScript • Python • C
 
 ### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Security-JWT-green?style=for-the-badge)
+Spring Boot • Spring Security • JPA/Hibernate • REST APIs
 
 ### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+React • Tailwind CSS • Three.js
 
 ### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge\&logo=apachecassandra\&logoColor=white)
+MySQL • MongoDB • Redis
 
 ---
 
@@ -114,9 +115,10 @@
 
 ## 🎯 Current Focus
 
-* ⚡ Building **production-grade full-stack apps**
-* 🧠 Learning **system design & scalability**
-* 🤖 Exploring **AI-powered web systems**
+- 🧠 System Design (scalability, distributed systems basics)
+- ⚡ Building production-grade backend systems
+- 🔄 Learning caching & async processing (Redis, queues)
+- 🤖 AI-powered application workflows
 
 ---
 
@@ -132,8 +134,8 @@
 
 ## 📬 Contact
 
-📧 [kaarrttiikkeey@gmail.com](mailto:kaarrttiikkeey@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/23-kartikey
+📧 [kaarrttiikkeey@gmail.com](mailto:kaarrttiikkeey@gmail.com)  
+🔗 LinkedIn: https://www.linkedin.com/in/23-kartikey  
 
 ---
 
