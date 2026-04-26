@@ -43,6 +43,25 @@ I design and build **backend-heavy, production-oriented systems** using:
 
 ## 🚀 Featured Projects
 
+### ⚙️ Social Guardrails API  
+**Concurrency-Controlled Interaction System**
+
+- Built a system enforcing **strict constraints on likes, comments, and bot interactions**
+- Used **Redis for atomic operations (INCR, SET NX EX)** to ensure concurrency safety
+- Implemented:
+  - Rate limiting (bot interaction caps)
+  - Cooldown enforcement between bot-user interactions
+  - Comment depth constraints
+- Designed **notification batching system** using Redis lists + scheduler
+- Architecture:
+  - Redis → real-time validation & concurrency control  
+  - PostgreSQL → persistent storage  
+  - Stateless backend  
+
+🔗 https://github.com/23-kartikey/social-guardrails-api
+
+---
+
 ### 🧠 Gemini Orbit  
 **AI Knowledge Graph System**
 
@@ -57,20 +76,6 @@ I design and build **backend-heavy, production-oriented systems** using:
   - Full-stack deployment (Docker + Vercel)
 
 🔗 https://github.com/23-kartikey/gemini-orbit-ai-backend
-
----
-
-### 🔐 Secure Notes API  
-**Authentication & Authorization System**
-
-- Built a **stateless authentication system** using JWT
-- Implemented:
-  - BCrypt password hashing
-  - Role-based authorization
-  - Secure API access control
-- Designed for **real-world security practices**
-
-🔗 https://github.com/23-kartikey/secure-notes-api
 
 ---
 
@@ -100,7 +105,7 @@ Spring Boot • Spring Security • JPA/Hibernate • REST APIs
 React • Tailwind CSS • Three.js
 
 ### 🗄️ Databases
-MySQL • MongoDB • Redis
+MySQL • PostgreSQL • MongoDB • Redis
 
 ---
 
