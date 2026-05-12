@@ -113,8 +113,8 @@ MySQL • PostgreSQL • MongoDB • Redis
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=23-kartikey&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-kartikey&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23-kartikey&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
